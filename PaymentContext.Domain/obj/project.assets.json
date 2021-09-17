@@ -17,8 +17,8 @@
   "libraries": {
     "PaymentContext.Shared/1.0.0": {
       "type": "project",
-      "path": "../Paymentcontext.Shared/PaymentContext.Shared.csproj",
-      "msbuildProject": "../Paymentcontext.Shared/PaymentContext.Shared.csproj"
+      "path": "../PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "msbuildProject": "../PaymentContext.Shared/PaymentContext.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudo\\Balta.io\\PaymentContext\\Paymentcontext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\Estudo\\Balta.io\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "C:\\Estudo\\Balta.io\\PaymentContext\\Paymentcontext.Domain\\PaymentContext.Domain.csproj",
+      "projectPath": "C:\\Estudo\\Balta.io\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudo\\Balta.io\\PaymentContext\\Paymentcontext.Domain\\obj\\",
+      "outputPath": "C:\\Estudo\\Balta.io\\PaymentContext\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Estudo\\Balta.io\\PaymentContext\\Paymentcontext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "C:\\Estudo\\Balta.io\\PaymentContext\\Paymentcontext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\Estudo\\Balta.io\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Estudo\\Balta.io\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }

@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = PaymentContext.Shared
-build_property.ProjectDir = C:\Estudo\Balta.io\PaymentContext\Paymentcontext.Shared\
+build_property.ProjectDir = c:\Estudo\Balta.io\PaymentContext\PaymentContext.Shared\
