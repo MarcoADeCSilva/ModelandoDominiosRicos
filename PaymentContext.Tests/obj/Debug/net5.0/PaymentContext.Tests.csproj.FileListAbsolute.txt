@@ -102,3 +102,4 @@ C:\Estudo\Balta.io\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentC
 C:\Estudo\Balta.io\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Shared.dll
 C:\Estudo\Balta.io\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Shared.pdb
 C:\Estudo\Balta.io\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Estudo\Balta.io\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\Flunt.dll
