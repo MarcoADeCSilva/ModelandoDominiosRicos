@@ -14,6 +14,7 @@ namespace PaymentContext.Domain.ValueObjects
                 .Requires()
                 .HasMinLen(FirstName, 3, "Name.FirstName", "Nome deve conter pelo menos 3 caracteres.")
                 .HasMinLen(FirstName, 3, "Name.LastName", "Nome deve conter pelo menos 3 caracteres.")
+                .HasMaxLen(firstName, 40, "Name.FirstName", "Nome deve conter até 40 caracteres")
             );
 
             if(string.IsNullOrEmpty(FirstName))

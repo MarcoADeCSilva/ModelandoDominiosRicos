@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "THmkCkrNdjVyNF+AaUCHuc3vdzIFigJ6CgNHcn3kUbe1ILPyOlf2wIf/3dOys3/c2Y0ozATTFGZzeN0w/By9Lg==",
+  "dgSpecHash": "1dWruwEKiNTfbCgy4H5n0DVGmDTVu8+n4Bs+POd8uexFu+AtnaaYDoCtTh9PHPitBJ0+xNxHaE2FxCXb/WnMsg==",
   "success": true,
-  "projectFilePath": "C:\\Estudo\\Balta.io\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "projectFilePath": "c:\\Estudo\\Balta.io\\PaymentContext\\Paymentcontext.Domain\\PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\flunt\\1.0.2\\flunt.1.0.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
